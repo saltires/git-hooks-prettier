@@ -1,0 +1,8 @@
+{
+  "name": "git-hooks-prettier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:saltires/git-hooks-prettier.git",
+  "author": "yejianxin <yejianxin@rightknights.com>",
+  "license": "MIT"
+}
